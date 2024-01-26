@@ -17,7 +17,7 @@ $ python main.py
 
 <!--Remove the below lines and add yours -->
 
-# <img alt="PLAG" src="https://i.imgur.com/fps29cr.png">
+![input_image](Output.png)
 
 ## _Author Name_
 
