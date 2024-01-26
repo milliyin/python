@@ -4,7 +4,7 @@
 
 This Python script serves as a simple password manager that allows users to store, retrieve, update, and delete passwords securely.
 
-###Features
+### Features
 
 Encryption: Passwords are encrypted using Fernet symmetric key cryptography.
 Data Storage: Passwords and associated information are stored in a JSON file (database.json).
