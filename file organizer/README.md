@@ -19,6 +19,9 @@ $ python main.py
 
 ![input_image](Output.png)
 
+## Working
+It loads the names of the folders and then all of the directories of the folder compare the file extension with the list and move the file into the assigned folder.
+
 ## _Author Name_
 
 <!--Remove the below lines and add yours -->
