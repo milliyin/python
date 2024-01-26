@@ -2,12 +2,18 @@
 This script generate combos in email:password formate
 
 ### Prerequisites
-* No external libraries are used
-* os
-* hashlib
+* random
+* string
+* json
+* time
 
 ### How to run the script
-Execute `python3 duplicatefileremover.py` 
+
+<!--Remove the below lines and add yours -->
+
+```
+$ python main1.0.py
+```
 
 ### Screenshot/GIF showing the sample use of the script
 <!--Remove the below lines and add yours -->
