@@ -17,10 +17,10 @@ $ python main1.0.py
 
 ### Screenshot/GIF showing the sample use of the script
 <!--Remove the below lines and add yours -->
-![Screenshot of the Output](Screenshot.png)
+![Screenshot of the Output](Output.png)
 
 ## Working
-The script first lists all the files in the directory. It takes MD5 hash of each file, when hash of 2 files become same it deletes the file.
+The script first loads the names.json file and generate mix emails address with a random password using all of the ASCII characters
 
 ## Author Name
-[Anandha Krishnan Aji](https://github.com/anandhakrishnanaji)
+[milliyin](https://github.com/milliyin)
