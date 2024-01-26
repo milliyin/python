@@ -23,5 +23,4 @@ $ python main.py
 
 <!--Remove the below lines and add yours -->
 
-M.Illiyin <br />
 [milliyin](https://github.com/milliyin)
