@@ -33,14 +33,11 @@ $ python main.py
 ![input_image](Output.png)
 ### Important Files
 
-config.json: Configuration file containing API key.
+config.py: Configuration file containing API keys.
 
 ## Working
 
-Passwords are encrypted using Fernet symmetric key encryption provided by the cryptography library.
-The script interacts with JSON files (config.json and database.json) for configuration and data storage.
-Data manipulation functions handle adding, updating, deleting, and displaying password entries.
-The script encrypts passwords before storing them and decrypts them when displaying.
+The X-api is utilized for retrieving a quote along with the name of the author. The Python Imaging Library (PIL) is employed to overlay this text onto a template image. Subsequently, the resulting image is saved into a designated folder. The Tweepy library is then employed to compose a tweet, incorporating both the quote and author information as text, along with attaching the image to the tweet.
 
 ## _Author Name_
 
