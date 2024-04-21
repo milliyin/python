@@ -1,4 +1,4 @@
-# File Tracking
+# File Tracking (Git LFS)
 This script uploads your files in a folder every Nth Seconds 
 
 ### Prerequisites
