@@ -24,7 +24,7 @@ $ python main.py
 
 <!--Remove the below lines and add yours -->
 
-![input_image](Output.png)
+![input_image](output.png)
 
 ## _Author Name_
 
