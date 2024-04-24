@@ -11,6 +11,9 @@ SR No   | Project
 3 | [File Organizer](https://github.com/milliyin/python/tree/main/file%20organizer) 
 4 | [Twitter Bot](https://github.com/milliyin/python/tree/main/Password%20Manager) 
 5 | [File Tracking git lsf](https://github.com/milliyin/python/tree/main/file%20tracking) 
+6 | [Qr Generator](https://github.com/milliyin/python/tree/main/QR%20Generator) 
+
+
 
 
 
