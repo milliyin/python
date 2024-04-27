@@ -12,7 +12,7 @@ SR No   | Project
 4 | [Twitter Bot](https://github.com/milliyin/python/tree/main/Password%20Manager) 
 5 | [File Tracking git lsf](https://github.com/milliyin/python/tree/main/file%20tracking) 
 6 | [Qr Generator](https://github.com/milliyin/python/tree/main/QR%20Generator) 
-
+6 | [Insta Bot V2](https://github.com/milliyin/python/tree/main/Insta-bot-v2) 
 
 
 
