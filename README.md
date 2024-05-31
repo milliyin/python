@@ -9,10 +9,8 @@ SR No   | Project
 1 | [Combo Generator](https://github.com/milliyin/python/tree/main/combogen) 
 2 | [Password Manager](https://github.com/milliyin/python/tree/main/Password%20Manager) 
 3 | [File Organizer](https://github.com/milliyin/python/tree/main/file%20organizer) 
-4 | [Twitter Bot](https://github.com/milliyin/python/tree/main/Password%20Manager) 
-5 | [File Tracking git lsf](https://github.com/milliyin/python/tree/main/file%20tracking) 
-6 | [Qr Generator](https://github.com/milliyin/python/tree/main/QR%20Generator) 
-7 | [Insta Bot V2](https://github.com/milliyin/python/tree/main/Insta-bot-v2) 
+4 | [Qr Generator](https://github.com/milliyin/python/tree/main/QR%20Generator) 
+
 
 
 
